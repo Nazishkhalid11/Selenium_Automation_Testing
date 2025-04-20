@@ -28,7 +28,3 @@ Before running the scripts, ensure you have the following installed:
 - **Selenium** – For automating web browsers.
 - **WebDriver Manager** – For automatically handling ChromeDriver installations.
 
-You can install the necessary dependencies using the following command:
-
-```bash
-pip install -r requirements.txt
